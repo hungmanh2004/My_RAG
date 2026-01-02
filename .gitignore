@@ -2,6 +2,7 @@
 .models/
 .model/
 .collections/
+.images/
 
 # Python
 __pycache__/
